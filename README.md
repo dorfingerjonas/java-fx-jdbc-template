@@ -1,4 +1,4 @@
-# java-fx-template
+# java-fx-jdbc-template
 template maven project for javafx with jdbc 📚
 
 powered by [Jonas Dorfinger](https://dorfingerjonas.github.io)
